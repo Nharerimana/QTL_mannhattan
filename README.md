@@ -1,6 +1,6 @@
-##QTL_mannhattan
+## QTL_mannhattan
 Make a Manhattan plot from QTL result files 
-##Dependencies 
+## Dependencies 
 tidyverse
 dplyr
 ggplot2
