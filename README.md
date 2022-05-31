@@ -1,7 +1,7 @@
 ## QTL_mannhattan
 Make a Manhattan plot from QTL result files 
 ## Dependencies 
-#tidyverse#
+tidyverse
 dplyr
 ggplot2
 ggpubr
